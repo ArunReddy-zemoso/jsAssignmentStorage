@@ -1,0 +1,14 @@
+.local div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.item{
+    padding: 5px;
+    margin: 5px;
+}
+.session div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
